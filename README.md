@@ -1,7 +1,6 @@
-# Pizza-Sales-SQL-Analysis
 # 🍕 Pizza Sales Analysis Using SQL
 
-![Project Banner](images/project_banner.png)
+!(images/project_banner.png)
 
 ## 📖 Overview
 
