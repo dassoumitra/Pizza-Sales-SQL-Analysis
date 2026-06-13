@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Using SQL
 
-!(images/project_banner.png)
+![Project Banner](images/project_banner.png)
 
 ## 📖 Overview
 
@@ -59,7 +59,7 @@ SELECT COUNT(*) AS total_orders
 FROM orders;
 ```
 
-![Q1](images/q1_total_orders.png)
+![Q1](images/q1.png)
 
 **Insight:**  
 Determined the total number of customer orders placed during the sales period.
@@ -75,7 +75,7 @@ JOIN pizzas p
 ON od.pizza_id = p.pizza_id;
 ```
 
-![Q2](images/q2_total_revenue.png)
+![Q2](images/q2.png)
 
 **Insight:**  
 Calculated the overall revenue generated from pizza sales.
@@ -95,7 +95,7 @@ ORDER BY p.price DESC
 LIMIT 1;
 ```
 
-![Q3](images/q3_highest_priced_pizza.png)
+![Q3](images/q3.png)
 
 **Insight:**  
 Identified the premium-priced pizza available on the menu.
@@ -116,7 +116,7 @@ ORDER BY total_orders DESC
 LIMIT 1;
 ```
 
-![Q4](images/q4_most_common_size.png)
+![Q4](images/q4.png)
 
 **Insight:**  
 Determined the most preferred pizza size among customers.
@@ -139,7 +139,7 @@ ORDER BY total_quantity DESC
 LIMIT 5;
 ```
 
-![Q5](images/q5_top_5_pizza_types.png)
+![Q5](images/q5.png)
 
 **Insight:**  
 Identified the best-selling pizza varieties based on quantity sold.
@@ -197,8 +197,8 @@ Through this project, I gained hands-on experience in:
 Pizza-Sales-SQL-Analysis/
 │
 ├── README.md
-├── sql/
-│   └── pizza_sales_analysis.sql
+├── pizza_sales_analysis.sql
+│ 
 │
 ├── dataset/
 │   ├── orders.csv
@@ -227,10 +227,7 @@ B.Tech in Computer Science & Engineering
 St. Thomas' College of Engineering & Technology  
 Aspiring Software Developer | Data Analyst
 
-### Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 
 ---
 
