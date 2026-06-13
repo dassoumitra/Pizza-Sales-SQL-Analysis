@@ -197,8 +197,8 @@ Through this project, I gained hands-on experience in:
 Pizza-Sales-SQL-Analysis/
 │
 ├── README.md
-├── sql/
-│   └── pizza_sales_analysis.sql
+├── pizza_sales_analysis.sql
+│ 
 │
 ├── dataset/
 │   ├── orders.csv
@@ -227,10 +227,7 @@ B.Tech in Computer Science & Engineering
 St. Thomas' College of Engineering & Technology  
 Aspiring Software Developer | Data Analyst
 
-### Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 
 ---
 
